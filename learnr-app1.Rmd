@@ -1,0 +1,42 @@
+---
+title: "learnr-app1"
+output: 
+    html_document:
+      includes: 
+        in_header: test1.html
+runtime: shiny_prerendered
+
+---
+
+```{r setup, include=FALSE}
+library(learnr)
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+
+## Topic 1
+
+### Exercise 
+
+*Here's a simple exercise with an empty code chunk provided for entering the answer.*
+
+Write the R code required to add two plus two:
+
+```{r name, exercise=TRUE}
+
+name <- ""
+
+```
+
+
+<div id="name-hint">
+**Hint:** Write your first name on the right side of arrow `<-` between the `" "`.
+</div>
+
+
+```{r name-hint-1}
+name <- "Adam" # Insert your own name here 
+```
+
+
+<div data-iframe-height></div>

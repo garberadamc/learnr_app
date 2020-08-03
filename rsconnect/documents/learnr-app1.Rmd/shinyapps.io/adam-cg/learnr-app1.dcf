@@ -1,0 +1,12 @@
+name: learnr-app1
+title: learnr-app1
+username:
+account: adam-cg
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2638143
+bundleId: 3470408
+url: https://adam-cg.shinyapps.io/learnr-app1/
+when: 1596481856.27373
+asMultiple: FALSE
+asStatic: FALSE
